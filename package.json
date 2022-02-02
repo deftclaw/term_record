@@ -1,0 +1,9 @@
+{
+  "engines": {
+    "node": ">=4.0.0 <=12.22.9"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "terminalizer": "^0.7.2"
+  }
+}
